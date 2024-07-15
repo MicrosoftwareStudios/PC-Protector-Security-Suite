@@ -5,7 +5,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.5.16  | :green_check_mark: |
+| 0.5.16  | :heavy_check_mark: |
 
 ## Reporting a Vulnerability
 
