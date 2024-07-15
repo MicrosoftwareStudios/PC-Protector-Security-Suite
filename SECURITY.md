@@ -5,7 +5,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.16.22 | :heavy_check_mark: |
+| 0.16.2  | :heavy_check_mark: |
 | 0.16.1  | :x:                |
 | 0.15.1  | :x:                |
 | 0.15    | :x:                |
@@ -28,7 +28,7 @@ Feature suggestions and questions are always accepted at the cservice email.
 
 ## Security Notice
 
-If you have any of the unsuppowted versions, please download and run the installer to update immediately. 
+If you have any of the unsupported versions, please download and run the installer to update immediately. 
 
 0.16.2 and later:
 Use the app's settings to update, no need to download installer again.
